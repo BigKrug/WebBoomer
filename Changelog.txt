@@ -1,0 +1,7 @@
+v0.1:
+ - First commit
+ - Hardcoded values, single threaded
+
+v0.2:
+ - Command line arguments for target, wordlist, and status codes
+ - Added comments to previous code
